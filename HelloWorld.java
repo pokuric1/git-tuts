@@ -11,5 +11,6 @@ public class HelloWorld {
         int number = sc.nextInt();
 
         System.out.println("You entered: " + number);
+        System.out.println(number);
     }
 }
